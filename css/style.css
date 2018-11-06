@@ -1,0 +1,233 @@
+
+img{ max-width: 100%; }
+
+
+.header{    margin-bottom: 100px;  }
+
+.heading{       box-shadow: 0px 0px 18px 0px;
+    margin-bottom: 175px;
+}
+.nav-item a{       padding: 10px 18px;
+    font-weight: 500;
+    color: black;
+    font-size: 20px;
+} 
+.nav-item a:hover{     color: white;
+    background: green;
+    border-radius: 5px; }
+.banner-content{}         
+.banner-content h1{    font-size: 100px;
+    margin-top: 100px;}
+ .banner-content .btn {font-size: 28px;
+   color: white;
+    padding: 12px 28px;
+    border-radius: 20px;
+    background-color: green;}
+ 
+ .banner-content .btn:hover{ background:grey;
+ color:green; }
+/***********DELIVERY***********/
+
+ .delivery-header{ margin-top: 50px;
+    margin-bottom: 100px;
+    margin: 0 auto;
+        padding: 45px;
+}
+ .delivery-header h1{     font-weight: 400;    
+}
+ .delivery-header span{    width: 150px;
+    height: 5px;
+    background: green;
+    display: inline-block;
+    text-align: center;
+    margin-left: 65px;
+}
+ .delivery-content{}
+.delivery-precess{height: 145px;
+    width: 286px;
+    background: #51b751;
+    margin-top: 26px;
+    box-shadow: 1px 0px 18px 0px;
+    border-radius: 5px;
+    margin-bottom: 70px;
+}
+    .delivery-precess:hover{ background: grey; 
+    color: red; }
+  span{}
+ .delivery-precess  h3{ margin-left: 49px;
+    text-align: center;
+    color: white;
+
+  }
+ .delivery-precess h5{    text-align: center;
+    color: white;
+    margin-top: 20px;}
+
+ /***********DELIVERY***********/
+ /***********daily manu***********/   
+
+
+.daily-manu{    margin-top: 100px;
+margin-bottom: 100px;}
+.daily-heading{}
+ .daily-heading h1{    color: black;
+    text-align: center;
+    font-weight: 400
+}
+ .daily-heading span{    height: 5px;
+    width: 100px;
+    background: #026102;
+    display: inline-block;
+    margin-left: 500px;
+}
+ .daily-heading p{    max-width: 60%;
+    margin-left: 250px;
+    font-size: 20px;
+    margin-bottom: 60px;
+} 
+.manu-content{}
+.manu-content img:hover{} 
+/***********daily manu***********/ 
+/***********step***********/ 
+.step-heading{    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;}
+.step-heading h1{    font-weight: 400;}
+.step-heading span{    width: 200px;
+    height: 5px;
+    background: green;
+    display: inline-block;}
+.step-image{    text-align: center;
+    margin-bottom: 50px;}
+
+/***********step***********/ 
+/***********news***********/
+.latest-news{background: whitesmoke;
+    margin-bottom: 150px;}
+.news-heading{    text-align: center;
+
+        padding: 55px;
+}
+.news-heading h1{    font-weight: 400;
+}
+.news-heading span{    height: 5px;
+    width: 100px;
+    background: green;
+    display: inline-block;
+}
+.news-content{    margin-bottom: 30px;}
+.text{}
+
+.date{background: #25b525;
+    margin-top: 20px;
+    border-radius: 6px;}
+.date p{    color: white;
+    text-align: center;
+    margin-bottom: 0;
+    
+    font-weight: 500;
+    font-size: 21px;}
+
+.description{}
+.description h1{    font-size: 19px;
+    color: green;
+    margin-top: 40px;
+}
+.text p{    font-weight: 500;
+    margin-top: 5px;
+    width: 90%;
+
+}
+/***********news***********/
+
+/***********statistic***********/
+.organic-statistic{    background: #39c557;
+    height: 350px;}
+.statistic-heading{}
+.statistic-heading h1{    text-align: center;
+    font-weight: 400;
+    color: white;
+    font-size: 40px;
+    padding: 45px;
+}
+
+.statistics-content{}
+
+.statistics-content h1{    color: white;
+    font-size: 32px;
+    text-align: center;}
+.statistics-content h4{    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+}
+/**********statistic***********/
+
+/**********organic-bio***********/
+
+.organic-heading{}
+.organic-heading h1{    color: black;
+    text-align: center;
+    font-weight: 400;
+}
+.organic-heading span{    height: 5px;
+    width: 160px;
+    background: green;
+    display: inline-block;
+    margin-left: 460px;
+}
+
+.organic-bio{    margin-top: 150px;
+    background: #dad6d6;
+    height: 300px;}
+.organic-bio img{    margin-top: 37px;}
+/********** organic bio**********/
+
+/**********footer**********/
+.footer{    background: #0c0c0c;}
+.logo-part{    margin-top: 50px;}
+.logo-part img{}
+.logo-part h3{    color: gray;
+    font-size: 20px;
+    margin-top: 10px;}
+.logo-part p{    color: #4a4545;}
+
+.more-services{    margin-top: 50px;}
+.more-services h1{color: gray;}
+.more-services span{height: 3px;
+    width: 100px;
+    background: green;
+    display: inline-block;}
+.more-services h3{    color: #403e3e;
+    font-size: 25px;
+}
+
+.contact{    margin-top: 50px;}
+.contact h1{    color: gray;}
+.contact span{    height: 3px;
+    width: 100px;
+    background: green;
+    display: inline-block;}
+.contact h3{    color: #484343;
+    font-size: 24px;
+}
+
+
+
+/**********footer**********/
+
+.right    {background: #292626;
+    height: 100px;}
+.right p{    color: gray;
+    text-align: center;
+    padding: 41px;
+    font-size: 20px;}
+
+
+
+
+
+
+
+
+
